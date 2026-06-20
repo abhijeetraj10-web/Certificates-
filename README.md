@@ -1,2 +1,1 @@
-# PORTFOLIO_RP
-This is my Portfolio. 
+CERTIFICATION AND LICENSE 
